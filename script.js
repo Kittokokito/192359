@@ -1,5 +1,5 @@
 // script.js (v4.4 - Final Corrected Version)
-const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyu26R9ot3AyLONR1vlUJh-4qNSqGGMidCncDSMahCtCJmEe4RyenPbbBk6aciK6lRfhg/exec';
+const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbz1xNIqm4Nm2wXmT2gjJ77B7vDsKHWUF5v9TCir7RTlvXqU14KdPGxv_CP4EGwoaYfh9A/exec';
 
 window.addEventListener('DOMContentLoaded', () => {
     // --- Element Declarations ---
